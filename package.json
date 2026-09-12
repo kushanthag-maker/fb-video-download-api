@@ -1,6 +1,8 @@
 {
-  "name": "fb-downloader-api",
-  "version": "1.0.0",
+  "name": "fb-video-download-api",
+  "version": "2.0.0",
   "type": "module",
-  "dependencies": {}
+  "dependencies": {
+    "fbdl-core": "^1.0.6"
+  }
 }
